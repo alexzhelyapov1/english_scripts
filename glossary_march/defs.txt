@@ -1,0 +1,25 @@
+Artificial Intelligence: AI is the simulation of human intelligence processes by machines.
+Machine Learning: ML is the ability of machines to learn and improve from experience without explicit programming.
+Big Data: Refers to large and complex datasets that traditional data processing applications are inadequate to deal with.
+Remote Access: It allows users to connect to systems or data from a remote location using a network or the internet.
+Cloud Computing: It involves delivering various services over the internet, such as storage, processing power, or applications.
+Programming Framework: Provides a foundation and structure for developing software applications.
+Data Analytics: The process of examining data sets to draw conclusions about the information they contain.
+Blockchain Technology: A decentralized, distributed ledger technology that records transactions across multiple computers in a secure and transparent manner.
+Augmented Reality: AR is a technology that superimposes computer-generated images onto the real world.
+Software Development: Involves the process of creating software programs through coding, testing, and debugging.
+User Interface: The means by which users interact with a computer or a software application.
+Deep Learning: A subset of machine learning where artificial neural networks learn from data.
+Open Source: Denotes software that comes with its source code and is freely available for users to modify and distribute.
+Cross-platform Development: Creating software applications that can run on multiple operating systems or platforms.
+Predictive Analytics: Analyzing data to predict future outcomes or trends.
+Internet Security: Measures taken to protect systems, networks, and data from cyber threats and attacks over the internet.
+Data Mining: Process of discovering patterns and knowledge from large datasets.
+Computer Vision: Employs AI and machine learning to enable computers to interpret and understand the visual world.
+Information Security: Encompasses strategies and measures to protect digital information from unauthorized access, use, or destruction.
+Serverless Computing: Cloud computing model where a cloud provider automatically manages the infrastructure, scaling as needed.
+Software Architecture: The design and structure of software systems in terms of components, interfaces, and relationships.
+Data Warehousing: The process of collecting, storing, and managing data from multiple sources for analysis and reporting.
+Quality Assurance: Ensuring that software products and services meet quality standards and requirements before delivery.
+Firmware Update: Updating the software that controls hardware devices, such as embedded systems.
+Data Backup: Copying and archiving data to protect against data loss in case of system failures or disasters.
